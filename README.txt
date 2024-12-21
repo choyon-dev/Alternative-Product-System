@@ -51,8 +51,5 @@ Yes, it can be used for any post type that supports ACF relationship fields.
 = 1.0.0 =
 - Initial release with full functionality.
 
-== Upgrade Notice ==
-No special steps required. Simply replace the old plugin version with the updated one.
-
 == Support ==
 For questions, visit https://choyon.pro/contact or email support@choyon.pro
